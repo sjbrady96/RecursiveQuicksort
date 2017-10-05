@@ -1,0 +1,7 @@
+C:\Users\seanb\source\repos\RecursiveQuicksort\RecursiveQuicksort\bin\Debug\RecursiveQuicksort.exe.config
+C:\Users\seanb\source\repos\RecursiveQuicksort\RecursiveQuicksort\bin\Debug\RecursiveQuicksort.exe
+C:\Users\seanb\source\repos\RecursiveQuicksort\RecursiveQuicksort\bin\Debug\RecursiveQuicksort.pdb
+C:\Users\seanb\source\repos\RecursiveQuicksort\RecursiveQuicksort\obj\Debug\RecursiveQuicksort.csprojResolveAssemblyReference.cache
+C:\Users\seanb\source\repos\RecursiveQuicksort\RecursiveQuicksort\obj\Debug\RecursiveQuicksort.csproj.CoreCompileInputs.cache
+C:\Users\seanb\source\repos\RecursiveQuicksort\RecursiveQuicksort\obj\Debug\RecursiveQuicksort.exe
+C:\Users\seanb\source\repos\RecursiveQuicksort\RecursiveQuicksort\obj\Debug\RecursiveQuicksort.pdb
